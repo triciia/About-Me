@@ -1,1 +1,14 @@
+.navbar-brand{
+    font-family: "Carme", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.text-uppercase{
+    font-family: "Carme", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+}
 
+.mt-4, .text-muted{
+font-size: 20px;
+}
