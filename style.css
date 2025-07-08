@@ -58,6 +58,33 @@ p{
     text-decoration: underline;
     color:#333333;
 }
-
+.contact-section-box {
+    font-family: "Carme", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+    font-size:50px;
+  border: 3px solid #444444;       
+  border-radius: 8px;               
+ padding-top: 100px;
+padding-bottom: 100px;
+padding-left: 20px;
+padding-right: 20px;              
+  max-width: 700px;             
+  margin: 0 auto;                  
+  color: #333333;               
+}
+.contact-section-box a {
+  color: #333333;
+  margin: 0 5px;
+  font-size: 28px;
+  text-decoration: none;
+}
+#contact {
+  margin-top: 300px;
+  margin-bottom: 300px;
+}
+.contact-section-box a:hover {
+  color: #cab287;
+}
 
 
